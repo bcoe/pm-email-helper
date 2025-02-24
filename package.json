@@ -1,0 +1,14 @@
+{
+  "name": "pm-email-helper",
+  "version": "1.0.0",
+  "description": "Maintain a list of org slugs that have been contacted with recent outreach and remove duplicates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
